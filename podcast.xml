@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
+
 <title>Audiobooks</title>
 <description>My audiobook collection</description>
 <link>https://example.com</link>
@@ -9,9 +10,78 @@
 <item>
 <title>Ranger's Apprentice: Halt's Peril, Part 1</title>
 <description>Ranger's Apprentice: Halt's Peril, Part 1</description>
-<enclosure url="https://dl.dropboxusercontent.com/scl/fi/kc1rymltaicui19agczdu/Halt-s-Peril-Part01.mp3?rlkey=ce0arha8e4pfin8ufikyonh3q" type="audio/mpeg" length="12345678"/>
+<enclosure url="https://dl.dropboxusercontent.com/scl/fi/kc1rymltaicui19agczdu/Halt-s-Peril-Part01.mp3?rlkey=ce0arha8e4pfin8ufikyonh3q" type="audio/mpeg"/>
 <guid isPermaLink="false">halts-peril-part-1</guid>
-<itunes:duration>3600</itunes:duration>
+</item>
+
+<item>
+<title>Ranger's Apprentice: Halt's Peril, Part 2</title>
+<description>Ranger's Apprentice: Halt's Peril, Part 2</description>
+<enclosure url="https://dl.dropboxusercontent.com/scl/fi/z59o7yzusm0wpbirru2x2/Halt-s-Peril-Part02.mp3?rlkey=5m8wyg9no8zw7hdw6nz1isnby" type="audio/mpeg"/>
+<guid isPermaLink="false">halts-peril-part-2</guid>
+</item>
+
+<item>
+<title>Ranger's Apprentice: Halt's Peril, Part 3</title>
+<description>Ranger's Apprentice: Halt's Peril, Part 3</description>
+<enclosure url="https://dl.dropboxusercontent.com/scl/fi/prsot2c79q0vfs48w56ad/Halt-s-Peril-Part03.mp3?rlkey=g4tecj0fdl3ief5146aubukbg" type="audio/mpeg"/>
+<guid isPermaLink="false">halts-peril-part-3</guid>
+</item>
+
+<item>
+<title>Ranger's Apprentice: Halt's Peril, Part 4</title>
+<description>Ranger's Apprentice: Halt's Peril, Part 4</description>
+<enclosure url="https://dl.dropboxusercontent.com/scl/fi/5i69q1timqdbt7h048k1r/Halt-s-Peril-Part04.mp3?rlkey=2q2gkrqm4jt5lk7c4lrm58t32" type="audio/mpeg"/>
+<guid isPermaLink="false">halts-peril-part-4</guid>
+</item>
+
+<item>
+<title>Ranger's Apprentice: Halt's Peril, Part 5</title>
+<description>Ranger's Apprentice: Halt's Peril, Part 5</description>
+<enclosure url="https://dl.dropboxusercontent.com/scl/fi/snzaw39ysz1e4mjswxj8w/Halt-s-Peril-Part05.mp3?rlkey=r96llitepk89i45kf2q83buj7" type="audio/mpeg"/>
+<guid isPermaLink="false">halts-peril-part-5</guid>
+</item>
+
+<item>
+<title>Ranger's Apprentice: Halt's Peril, Part 6</title>
+<description>Ranger's Apprentice: Halt's Peril, Part 6</description>
+<enclosure url="https://dl.dropboxusercontent.com/scl/fi/roswjuiz3666um902ufwb/Halt-s-Peril-Part06.mp3?rlkey=rysicwdzfol5d7oacl6i6j3se" type="audio/mpeg"/>
+<guid isPermaLink="false">halts-peril-part-6</guid>
+</item>
+
+<item>
+<title>Ranger's Apprentice: Halt's Peril, Part 7</title>
+<description>Ranger's Apprentice: Halt's Peril, Part 7</description>
+<enclosure url="https://dl.dropboxusercontent.com/scl/fi/c7s5qwgwre0aqur7pkse1/Halt-s-Peril-Part07.mp3?rlkey=u7ca2k7rjvk7zs2h5u4psdv6l" type="audio/mpeg"/>
+<guid isPermaLink="false">halts-peril-part-7</guid>
+</item>
+
+<item>
+<title>Ranger's Apprentice: Halt's Peril, Part 8</title>
+<description>Ranger's Apprentice: Halt's Peril, Part 8</description>
+<enclosure url="https://dl.dropboxusercontent.com/scl/fi/l9qc6jm7zspx9iwiz1mk4/Halt-s-Peril-Part08.mp3?rlkey=x3cm6hx9ij0ifupv7587ns4qc" type="audio/mpeg"/>
+<guid isPermaLink="false">halts-peril-part-8</guid>
+</item>
+
+<item>
+<title>Ranger's Apprentice: Halt's Peril, Part 9</title>
+<description>Ranger's Apprentice: Halt's Peril, Part 9</description>
+<enclosure url="https://dl.dropboxusercontent.com/scl/fi/itk1eaedjzea4xgjhssk3/Halt-s-Peril-Part09.mp3?rlkey=hhemgs44gbu8us9kmu49n86hu" type="audio/mpeg"/>
+<guid isPermaLink="false">halts-peril-part-9</guid>
+</item>
+
+<item>
+<title>Ranger's Apprentice: Halt's Peril, Part 10</title>
+<description>Ranger's Apprentice: Halt's Peril, Part 10</description>
+<enclosure url="https://dl.dropboxusercontent.com/scl/fi/qdpbfjcd2mgfy3nr95mc8/Halt-s-Peril-Part10.mp3?rlkey=d6enqq8tu4payg10ge8a72kr1" type="audio/mpeg"/>
+<guid isPermaLink="false">halts-peril-part-10</guid>
+</item>
+
+<item>
+<title>Ranger's Apprentice: Halt's Peril, Part 11</title>
+<description>Ranger's Apprentice: Halt's Peril, Part 11</description>
+<enclosure url="https://dl.dropboxusercontent.com/scl/fi/ckb8y4la6161kmzbctvd9/Halt-s-Peril-Part11.mp3?rlkey=5cougcs2ge9wqpxc9qeayz19z" type="audio/mpeg"/>
+<guid isPermaLink="false">halts-peril-part-11</guid>
 </item>
 
 </channel>
