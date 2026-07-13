@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
 <title>Audiobooks</title>
 <description>My audiobook collection</description>
+<link>https://example.com</link>
 <language>en-au</language>
 
 <item>
 <title>Ranger's Apprentice: Halt's Peril, Part 1</title>
 <description>Ranger's Apprentice: Halt's Peril, Part 1</description>
-<enclosure url="https://dl.dropboxusercontent.com/scl/fi/kc1rymltaicui19agczdu/Halt-s-Peril-Part01.mp3?rlkey=ce0arha8e4pfin8ufikyonh3q" type="audio/mpeg"/>
-<guid>halts-peril-part-1</guid>
+<enclosure url="https://dl.dropboxusercontent.com/scl/fi/kc1rymltaicui19agczdu/Halt-s-Peril-Part01.mp3?rlkey=ce0arha8e4pfin8ufikyonh3q" type="audio/mpeg" length="12345678"/>
+<guid isPermaLink="false">halts-peril-part-1</guid>
+<itunes:duration>3600</itunes:duration>
 </item>
 
 </channel>
